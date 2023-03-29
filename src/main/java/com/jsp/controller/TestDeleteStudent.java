@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.jsp.dto.Student;
 import com.jsp.service.StudentService;
 
-@WebServlet("/del")
+@WebServlet("/dele")
 public class TestDeleteStudent extends HttpServlet {
 	
 	@Override
