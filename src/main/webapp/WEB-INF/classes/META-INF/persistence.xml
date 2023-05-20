@@ -12,11 +12,11 @@
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://13.235.42.114:3306/bhanu" />
+				value="jdbc:mysql://13.127.156.87:3306/bhanu" />
 			<property name="javax.persistence.jdbc.user"
-				value="Bhanu" />
+				value="root" />
 			<property name="javax.persistence.jdbc.password"
-				value="Bhanu@2399" />
+				value="123456" />
 			<property name="hibernate.show_sql" value="true" />
 
 
